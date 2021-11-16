@@ -1,3 +1,5 @@
 # 100daysofCode towards Web Development.
 
-1 project :- HTML Personal Site
+Project 1 :- HTML Personal Site.
+
+Project 2 :- CSS Site.
